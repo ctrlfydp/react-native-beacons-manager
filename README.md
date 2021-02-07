@@ -5,6 +5,11 @@
 This is a slightly modified version of the original repo. Master branch is moved back to the original repo's v1.0.7 tag and then changes were made to
 the android/build.gradle to work with latest react-native versions.
 
+To install this version, use:
+```
+yarn add ctrlfydp/react-native-beacons-manager
+```
+
 # react-native-beacons-manager
 
 ![logo](./images/RN-iBeacon.png)

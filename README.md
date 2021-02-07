@@ -2,6 +2,9 @@
 [![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/MacKentoch/react-native-beacons-manager)
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/react-native-beacons-manager/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
+This is a slightly modified version of the original repo. Master branch is moved back to the original repo's v1.0.7 tag and then changes were made to
+the android/build.gradle to work with latest react-native versions.
+
 # react-native-beacons-manager
 
 ![logo](./images/RN-iBeacon.png)
